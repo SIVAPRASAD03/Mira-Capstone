@@ -1,4 +1,4 @@
-# Mira — AI-Powered Project Intelligence Assistant
+# Mira - AI-Powered Project Intelligence Assistant
 
 **Interview Kickstart capstone · Applied Agentic AI for PMs / TPMs** · Author: Sivaprasad
 
